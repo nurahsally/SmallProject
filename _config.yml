@@ -1,1 +1,3 @@
 theme: jeykll-theme-merlot
+plugins: 
+-jekyll-remote-theme 
