@@ -3,3 +3,6 @@ plugins:
 -jekyll-remote-theme 
 title: [Nostalgia]
 description: [Showing pictures that create nostalgic memories. A common feeling that is felt around the world.]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
