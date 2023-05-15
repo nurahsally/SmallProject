@@ -1,3 +1,5 @@
 theme: jeykll-theme-merlot
 plugins: 
 -jekyll-remote-theme 
+title: [Nostalgia]
+description: [Showing pictures that create nostalgic memories. A common feeling that is felt around the world.]
